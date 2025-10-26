@@ -6,7 +6,7 @@
 ---
 
 ## 📖 About the Project
-The **Tiffin Box Clone** is a front-end replica of the official [TiffinBox Group](https://tiffinboxgroup.com) website.  
+The **Tiffin Box Clone** is a front-end replica of the official [TiffinBox Group](https://thetiffinboxgroup.com/) website.  
 It was built for learning and practice purposes to improve web development skills and understand modern layout and design concepts.
 
 ---
