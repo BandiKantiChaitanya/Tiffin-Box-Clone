@@ -1,16 +1,29 @@
-# React + Vite
+# 🍱 Tiffin Box Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🔗 Live Demo  
+👉 [**View Live Site**](https://tiffin-box-clone.vercel.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 About the Project
+The **Tiffin Box Clone** is a front-end replica of the official [TiffinBox Group](https://tiffinboxgroup.com) website.  
+It was built for learning and practice purposes to improve web development skills and understand modern layout and design concepts.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- Fully responsive layout (works on all devices)  
+- Clean and modern user interface  
+- Interactive navigation and sections  
+- Smooth hover effects and transitions  
+- Deployed live using **Vercel**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3** (Flexbox, Grid, Animations)
+- **JavaScript (Vanilla JS)**
+- **Vercel** (for hosting & deployment)
+
+
